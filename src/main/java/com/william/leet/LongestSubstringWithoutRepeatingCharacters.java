@@ -16,6 +16,8 @@ public class LongestSubstringWithoutRepeatingCharacters {
 
     /**
      * My solution
+     * Sliding Window + HashSet
+     * 個人覺得是要想到  Math.max(maxLength, right - left);
      * abcabcbb
      * @param s
      * @return
