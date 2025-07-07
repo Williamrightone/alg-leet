@@ -1,4 +1,4 @@
-package com.william.top150.easy;
+package com.william.top150.hashmap;
 
 import java.util.HashMap;
 import java.util.Map;
